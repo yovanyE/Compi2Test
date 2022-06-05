@@ -1,0 +1,6 @@
+var: INT = 5
+i: INT =7
+l:INT=5
+k:INT=7
+k*2
+k+7
